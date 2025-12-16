@@ -70,5 +70,4 @@ FinanceTracker/
 ├── Dockerfile                   # Container configuration
 ├── pom.xml                     # Maven configuration
 └── README.md                   # This file
-"
 
