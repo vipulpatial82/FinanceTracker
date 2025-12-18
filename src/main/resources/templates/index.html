@@ -61,7 +61,7 @@
                 <p th:text="${summary.expenseCount} + ' transactions'">0 transactions</p>
             </div>
             <div class="card balance">
-                <h3>Balance</h3>
+                <h3>Total Balance</h3>
                 <h2 th:text="'$' + ${#numbers.formatDecimal(summary.balance, 0, 2)}">$0.00</h2>
                 <p th:text="${summary.totalTransactions} + ' total transactions'">0 total transactions</p>
             </div>
