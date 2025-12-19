@@ -12,6 +12,7 @@ public class CategoryClassifier {
         KEYWORDS.put("amazon", "Shopping");
         KEYWORDS.put("zomato", "Food");
         KEYWORDS.put("swiggy", "Food");
+        KEYWORDS.put("uber", "Transport");
         KEYWORDS.put("petrol", "Transport");
         KEYWORDS.put("atm", "Cash Withdrawal");
     }
